@@ -1,4 +1,5 @@
 # Who We Are
+Welcome to our GitHub page! We're a dynamic team of data scientists and market researchers dedicated to transforming the world of advertising on TikTok. Our mission is to foster behavioral change through data-driven insights and scientific methodologies.
 
 # What We Do
 ### Quantitative Market Research
